@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C&C++/project_2/ex2.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ex2.h
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C&C++/project_2/ex2.h
+
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C&C++/project_2/ex2.h
+
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C&C++/project_2/main.c
+stdlib.h
+-
+stdio.h
+-
+ex2.h
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C&C++/project_2/ex2.h
+ex2.c
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C&C++/project_2/ex2.c
+
